@@ -1,2 +1,2 @@
-# PracticaControlVersiones
-6.3 Actividad Control de Versiones
+#Explicación
+Aquí pondremos la documentación de la practica
