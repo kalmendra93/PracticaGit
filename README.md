@@ -1,2 +1,2 @@
-#Explicación
-Aquí pondremos la documentación de la practica
+#Explicacion
+Aqui pondremos toda la documentacion de la practica
